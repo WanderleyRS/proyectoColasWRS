@@ -1,0 +1,15 @@
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\bin\Debug\net6.0\proyectoColasWRS.exe
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\bin\Debug\net6.0\proyectoColasWRS.deps.json
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\bin\Debug\net6.0\proyectoColasWRS.runtimeconfig.json
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\bin\Debug\net6.0\proyectoColasWRS.dll
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\bin\Debug\net6.0\proyectoColasWRS.pdb
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\proyectoColasWRS.csproj.AssemblyReference.cache
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\proyectoColasWRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\proyectoColasWRS.AssemblyInfoInputs.cache
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\proyectoColasWRS.AssemblyInfo.cs
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\proyectoColasWRS.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\proyectoColasWRS.dll
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\refint\proyectoColasWRS.dll
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\proyectoColasWRS.pdb
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\proyectoColasWRS.genruntimeconfig.cache
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Programacion2\ProyetoVacio\proyectoColasWRS\obj\Debug\net6.0\ref\proyectoColasWRS.dll
