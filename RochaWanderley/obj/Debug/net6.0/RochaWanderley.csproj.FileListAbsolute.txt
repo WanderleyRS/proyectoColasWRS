@@ -1,0 +1,15 @@
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\bin\Debug\net6.0\RochaWanderley.exe
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\bin\Debug\net6.0\RochaWanderley.deps.json
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\bin\Debug\net6.0\RochaWanderley.runtimeconfig.json
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\bin\Debug\net6.0\RochaWanderley.dll
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\bin\Debug\net6.0\RochaWanderley.pdb
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\RochaWanderley.csproj.AssemblyReference.cache
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\RochaWanderley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\RochaWanderley.AssemblyInfoInputs.cache
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\RochaWanderley.AssemblyInfo.cs
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\RochaWanderley.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\RochaWanderley.dll
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\refint\RochaWanderley.dll
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\RochaWanderley.pdb
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\RochaWanderley.genruntimeconfig.cache
+C:\Users\W\Documents\WORKSPACE\Informatica 2do\Estructura web\RochaWanderley\obj\Debug\net6.0\ref\RochaWanderley.dll
